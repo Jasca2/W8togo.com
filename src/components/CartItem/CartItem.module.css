@@ -20,7 +20,7 @@
 }
 
 .adjustItemContainer {
-    margin: -8px 24px 0px 24px;
+    margin: -8px 24px 0px;
 }
 
 .itemContainer span {
@@ -100,7 +100,7 @@
 
     .adjustItemContainer {
         grid-area: qty;
-        margin: 16px 0px 0px 0px;
+        margin: 16px 0px 0px;
     }
 
     .imageContainer {

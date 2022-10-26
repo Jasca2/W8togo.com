@@ -1,6 +1,6 @@
 .root {
     background-color: var(--bg-grey);
-    padding: 30px 40px 50px 40px;
+    padding: 30px 40px 50px;
     min-height: 180px;
     position: relative;
     transition: all ease-in-out 0.3s;

@@ -42,7 +42,7 @@
 .loadMoreContainer {
     margin-top: 80px;
     width: 160px;
-    margin: 96px auto 0px auto;
+    margin: 96px auto 0px;
     text-align: center;
 
     display: flex;

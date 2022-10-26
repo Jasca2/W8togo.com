@@ -83,7 +83,7 @@
 }
 
 .sustainableContainer {
-    margin: 96px 40px 0px 40px;
+    margin: 96px 40px 0px;
 }
 
 .socialContainer {
@@ -102,7 +102,7 @@
 
 @media (max-width: 800px) {
     .sustainableContainer {
-        margin: 96px 0px 0px 0px;
+        margin: 96px 0px 0px;
     }
 
     .socialContentGrid {
@@ -110,6 +110,6 @@
     }
 
     .highlightContainer {
-        margin: 88px 0px 40px 0px;
+        margin: 88px 0px 40px;
     }
 }
