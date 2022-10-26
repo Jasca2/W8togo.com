@@ -3,7 +3,7 @@
 }
 
 .customDots {
-    margin: 16px 0px 0px 0px;
+    margin: 16px 0px 0px;
     list-style-type: none;
     display: flex !important;
     justify-content: center;
